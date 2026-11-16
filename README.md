@@ -11,7 +11,7 @@ Quick steps
 1. Fork the repository on GitHub.
 2. Clone your fork to your machine:
 
-   git clone (https://github.com/Yuvraj-cyborg/reqkill)
+   git clone (https://github.com/yuvichh/reqkill)
 
 3. Open Chrome and go to chrome://extensions
 4. Turn on "Developer mode" (toggle at top-right).
